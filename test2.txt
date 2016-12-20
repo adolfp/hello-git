@@ -1,0 +1,1 @@
+ok ini isifile text2.txt
